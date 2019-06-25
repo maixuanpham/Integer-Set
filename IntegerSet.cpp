@@ -1,9 +1,9 @@
-/*  Program:		MSVS 2012/2015
-    Author:			Mai Pham
-    Class:			CSCI 140
-    Date:			05/09/2017
-    Description:	Project 3 - Integer Set
-    I certify that the code below is my own work.
+/*  	Program:		MSVS 2012/2015
+    	Author:			Mai Pham
+    	Class:			CSCI 140
+    	Date:			05/09/2017
+    	Description:		Project 3: Integer Set
+    	I certify that the code below is my own work.
 	Exception(s): N/A
 */
 
